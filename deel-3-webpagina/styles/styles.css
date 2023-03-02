@@ -22,6 +22,7 @@ body{
 }
 
 .p1{
+
     display: flex;
     align-items: end;
     background-color: #c16e70;
